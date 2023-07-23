@@ -1,0 +1,18 @@
+
+.coll1{
+    padding-top: 5%;
+    font-size: xx-large;
+}
+.row1{
+    height: 23vh;
+}
+.row2{
+    height: 50vh;
+}
+.contain{
+    height: 93vh;
+    width: 100%;
+    background-image: url("./freedom.jpg");
+    background-size: cover;
+
+}

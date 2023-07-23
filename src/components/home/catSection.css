@@ -1,0 +1,18 @@
+.div1{
+    display: flex;
+    margin: 4% auto;
+    text-align: center;
+    justify-content:space-evenly;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+.card1{
+    transition: 0.5s;
+}
+.card1:hover{
+    font-size: xx-large;
+}
+
