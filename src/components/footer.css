@@ -1,0 +1,15 @@
+.row3{
+    height: 9.5vh;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+.col1{
+    padding-top: 1%;
+}
+.footSpan:hover{
+    font-size: xx-large;
+}
+.footSpan{
+    margin-left: 1%;
+}
